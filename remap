@@ -1,0 +1,3 @@
+#!/bin/bash
+xmodmap -e "keycode 108 = space"
+xmodmap -e "keycode 94 = space"
